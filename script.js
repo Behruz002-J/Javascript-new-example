@@ -87,7 +87,37 @@ if (a>0>v) {
     
 }
 
-//7
- let s = 22;
- let d = 133;
+//8
+//  let s = 22;
+//  let d = 133;
  
+//  if(d>0) {
+//     console.log(" d= " + d);
+    
+//  }else {
+
+//  }
+//   if(s>0) {
+//     console.log(" s= " + s);
+    
+//  }else {
+
+//  }
+
+//9
+let A = 55;
+let B = 33;
+
+if(A>0) {
+    console.log("B = " +A);
+    
+}else {
+    
+}
+if(B>0) {
+    console.log("A = " +B);
+    
+}else {
+    
+}
+

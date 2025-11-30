@@ -133,23 +133,38 @@ console.log(j);
 let A = 45;
 let B = 50;
 
+if(A != B) {
+    let n = A+B;
+    A  = n;
+    B = n;
+} else {
+    A= 0;
+    B=0
+}
+console.log(A);
+console.log(B);
+
+
 //11
 
-// let m = 25;
-// let n = 35;
-// let k = 0
-// if(m != n) {
-//     console.log(n);
-    
-// }else {
+let m = 25;
+let n = 35;
+if(m != n) {
+  let x = n;
+  a = x    
+}else {
 
-// }
-// if( m == n ) {
-//     console.log(k );
+}
+if( m == n ) {
+    m = 0
+    n = 0
     
-// }else {
+}else {
 
-// }
+}
+console.log(m);
+console.log(n);
+
 
 //12
 
@@ -165,3 +180,19 @@ console.log(son2);
 }
 
 //13
+let x = 50;
+let y = 60;
+let z = 40;
+
+if(x > y && y > z) {
+    console.log(x);
+    
+} 
+if( y < x && x > z) {
+    console.log(y);
+    
+}
+if( z < x && x < y) {
+    console.log(z);
+    
+}

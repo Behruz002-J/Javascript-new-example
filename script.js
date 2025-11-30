@@ -87,6 +87,13 @@ if (a>0>v) {
     
 }
 
+//7 
+let s = 29;
+let j = 30;
+console.log("s ning tartib raqami 91 " + s);
+console.log(j);
+
+
 //8
 //  let s = 22;
 //  let d = 133;
@@ -105,19 +112,56 @@ if (a>0>v) {
 //  }
 
 //9
-let A = 55;
-let B = 33;
+// let A = 55;
+// let B = 33;
 
-if(A>0) {
-    console.log("B = " +A);
+// if(A>0) {
+//     console.log("B = " +A);
+    
+// }else {
+    
+// }
+// if(B>0) {
+//     console.log("A = " +B);
+    
+// }else {
+    
+// }
+
+//10
+
+let A = 45;
+let B = 50;
+
+//11
+
+// let m = 25;
+// let n = 35;
+// let k = 0
+// if(m != n) {
+//     console.log(n);
+    
+// }else {
+
+// }
+// if( m == n ) {
+//     console.log(k );
+    
+// }else {
+
+// }
+
+//12
+
+let son1 = 22;
+let son2 = 33;
+let son3 = 44;
+if(son1<son2 || son2>son3) {
+    console.log(son1);
     
 }else {
-    
-}
-if(B>0) {
-    console.log("A = " +B);
-    
-}else {
-    
+console.log(son2);
+
 }
 
+//13
